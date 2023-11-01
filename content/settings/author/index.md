@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "My louisa"
 image = "/img/default-author.jpg"
-url = "/about/"
+url = "blong"
 +++
